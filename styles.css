@@ -42,7 +42,7 @@ body {
 }
 
 .hearts-background::after {
-    content: '💖';
+    content: '❤️';
     left: 80%;
     animation-delay: 5s;
 }
@@ -140,7 +140,7 @@ input[type="password"] {
 }
 
 button {
-    background: linear-gradient(135deg, #ff6b9d, #e63946);
+    background: linear-gradient(135deg, #5af95a, #e63946);
     color: white;
     border: none;
     padding: 15px 40px;

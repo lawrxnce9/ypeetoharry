@@ -2,7 +2,7 @@
 function checkPasscode() {
     const input = document.getElementById('passcode-input');
     const error = document.getElementById('error-message');
-    const correctCode = '1434';
+    const correctCode = '5555';
     
     if (input.value === correctCode) {
         error.textContent = '';
